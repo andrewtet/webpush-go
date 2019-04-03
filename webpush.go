@@ -19,7 +19,7 @@ import (
 )
 
 const (
-	maxRecordSize   uint32 = 4096
+	maxRecordSize   uint32 = 3070
 	maxRecordLength int    = int(maxRecordSize) - 16
 )
 
